@@ -1,3 +1,3 @@
-def using_concat(array, second)
-  array.concat(second)
+def using_concat(array, love)
+  array.concat(love)
 end
