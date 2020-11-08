@@ -2,7 +2,7 @@ def using_concat(array, love)
   array.concat(love)
 end
 
-def usng_insert(array, element)
+def using_insert(array, element)
   array.insert(4, element)
 end 
 
